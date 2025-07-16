@@ -1,5 +1,5 @@
 # TaskManager
-# Task Manager App
+
 
 A lightweight and user-friendly task management application built using **React**, **Spring Boot**, and **PostgreSQL**. The app allows users to manage tasks with features like category filtering, view deadline , and CRUD operations.
 
